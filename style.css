@@ -1,0 +1,25 @@
+/* login */
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+
+.container{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 15px 0 15px;
+    justify-content: center;
+    align-content: center;
+}
+
+span{
+    color: #252525;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 10px 0;
+}
+
